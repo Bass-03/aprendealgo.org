@@ -2,3 +2,5 @@ Makefile
 fabfile.py
 output/*
 __pycache__/*
+pelican.pid
+srv.pid
