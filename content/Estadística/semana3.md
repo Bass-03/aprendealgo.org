@@ -1,6 +1,8 @@
-Title: Causalidad y correlación Summary: Conceptos básicos y definiciones Tags: estadistica
+Title: Causalidad y correlación
+Summary: Conceptos básicos y definiciones
+Tags: estadistica
 
-# Conceptos Bábásicos
+# Conceptos Básicos
 
 **Población** Consiste de todos los objectos o individuos que se desea estudiar.
 
@@ -55,6 +57,6 @@ Entonces, no se puede solo decir que dos eventos tienen una relación causa y ef
 
 # Referencias
 
-- Levine, D (2006) Estadística para administración.
-- Kenney, J. F. and Keeping, E. S., Mathematics of Statistics, Pt. 2, 2nd ed. Princeton, NJ: Van Nostrand, 1951.
-- Florián B., Víctor - Diccionario de filosofía: Panamericana Editorial, 2012
+-   Levine, D (2006) Estadística para administración.
+-   Kenney, J. F. and Keeping, E. S., Mathematics of Statistics, Pt. 2, 2nd ed. Princeton, NJ: Van Nostrand, 1951.
+-   Florián B., Víctor - Diccionario de filosofía: Panamericana Editorial, 2012
