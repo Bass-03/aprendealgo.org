@@ -1,9 +1,9 @@
-Title: introducción a Estadísdica
+Title: Conceptos básicos en Estadísdica
 Summary: Conceptos básicos y definiciones
 Tags: estadistica
 
 ##Conceptos
-**Estocástico** (del griego stokhastes= adivino) lo que está ligado al azar.
+**Estocástico** (del griego stokhastes = adivino) lo que está ligado al azar.
 
 Se denomina estocástico al sistema que se comporta de forma no determinista, es decir, que contiene elementos predecibles pero también aleatorios.
 
@@ -22,7 +22,7 @@ También llamada estadística inductiva, son los métodos empleados para inferir
 Es el proceso que intenta descubrir patrones en grandes volúmenes de un conjunto de datos.
 El objetivo general del proceso de minería de datos consiste en extraer información de un conjunto de datos y transformarla en una estructura comprensible para su uso posterior.
 
-##Referencias
+## Referencias
 -   M. Kac & J. Logan, en Fluctuation Phenomena, eds. E.W. Montroll & J.L. Lebowitz, North-Holland, Ámsterdam, 1976.
 -   E. Nelson, Quantum Fluctuations, Princeton University Press, Princeton, 1985.
 -   Oded Maimon and Lior Rokach (2010). Data Mining and Knowledge Discovery Handbook. Springer, New York. ISBN 978-0-387-09823-4.
