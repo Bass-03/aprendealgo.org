@@ -12,7 +12,7 @@ DEFAULT_LANG = 'es'
 DISPLAY_PAGES_ON_MENU = True
 DISPLAY_CATEGORIES_ON_MENU = True
 SITESUBTITLE = "Aprende conmigo"
-GITHUB_URL = "https://github.com/gdledsan"
+GITHUB_URL = "https://github.com/gdledsan/aprendealgo.org"
 DEFAULT_DATE = 'fs'
 DEFAULT_METADATA = {
     'author': 'Edmundo Sánchez',

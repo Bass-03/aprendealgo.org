@@ -5,7 +5,7 @@ Tags: Pelican, CMS
 
 ## Agrégale contenido a tu página en Pelican
 
-Después de la [introducción a Pelican]({filename}/pelican-inicio-rapido.md) podemos empezar a ver como agregar mas contenido y darle un poco mas de forma al sitio.
+Después de la [introducción a Pelican]({filename}./pelican-inicio-rapido.md) podemos empezar a ver como agregar mas contenido y darle un poco mas de forma al sitio.
 
 ## Páginas y artículos
 
