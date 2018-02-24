@@ -66,6 +66,42 @@ Es importante saber como determinar que distribución tiene cierta variable para
 
 ## El análisis adecuado
 
-Después de tener los datos y describirlos por medio de números y gráficos viene la parte divertida, el análisis estadístico, si el estudio está bien diseñado las preguntas originales puedne responderse utilizando el análisis adecuado.
+Después de tener los datos y describirlos por medio de números y gráficos viene la parte divertida, el análisis estadístico, si el estudio está bien diseñado las preguntas originales pueden responderse utilizando el análisis adecuado.
 
- 
+Es importante elegir el análisis adecuado así como interpretar de forma correcta los resultados, saber las limitaciones y saber valorar los análisis de otras personas y las conclusiones de ellos.
+
+## Margen de error
+
+La estadística intenta darnos números que explican el comportamiento de una población entera, de hecho, muchas veces los resultados que vemos de encuestas y estudios mencionan que se aplican a toda la población, por ejemplo, que piensan los ciudadanos sobre el incremento de la gasolina. Pero lo cierto es que no le preguntaron a toda la población, si no que intentaron tomar una muestra representativa de ella.
+
+Lo importante es saber que los resultados son distintos para cada muestra,y esta variabilidad debe mencionarse.
+El estadístico para medir el grado de precisión de los resultados de una muestra se llama **margen de error**.
+Por ejemplo, alguien dice que el 60% de los Mexicanos son hijos ilegítimos de Pedro Fernández, tomando una muestra de 1200 personas, con un margen de error de 15%. Este Intervalo de valores probables comprendido entre 45% y 75% se llama **intervalo de confianza**.
+
+## Hipótesis
+
+Un **contraste de hipótesis** es una técnica que utiliza datos para intentar validar o invalidar una afirmación sobre una población.
+
+Es decir, so una marca asegura que entrega sus pizzas en 30 minutes, ¿es cierto?, o si un político dice que el salario mínimo en México alcanza para pagar los gastos básicos, ¿es cierto?. Utilizando contraste de hipótesis se hace un nuevo estudio para ver si los datos corroboran la aseveración o la invalidan.
+
+## Correlación
+
+Una de las cosas más comunes que queremos saber sobre algo es si está relacionado a otra cosa, por ejemplo, que tipo de alimentación nos dará mas años de vida, que tipo de Yoga ayuda a bajar de peso y cual a mejorar la postura, saber la meditación de verdad aumenta nuestra capacidad de aprender y de pensar, o si escribir tu propio blog sobre un tema de verdad te ayuda a aprender.
+
+## Conclusiones fiables
+
+La mayoría de las personas que realizan un trabajo estadístico utilizan formulas o software que utiliza formulas para ayudarles, pero esas formulas no saben si están siendo bien utilizadas y no te dicen si los resultados son incorrectos.
+
+Uno de los errores más comunes consiste en exagerar resultados de forma que se piensa que la muestra representa a un grupo mas grande de lo que es.
+
+Otro ejemplo de razonamiento incorrecto es cuando se piensa que dos variables están relacionadas y se establece una relación de causa y efecto que no es real, como por ejemplo cuando decimos que las mujeres ganan 15% menos que los hombres es incorrecto pensar que esto se debe una cuestión de género.
+
+# ¿Y ahora qué? ¿Es todo mentira?
+
+La estadística es una herramienta poderosa que sirve para responder preguntas, ya sea con la respuesta correcta o la equivocada, y es muy posible que la respuesta equivocada sea elegida a propósito para intentar una especie de control mental simple.
+
+Con esto en mente, es muy fácil caer en una depresión ligera al saber que todo el mundo quiere engañarnos para segur su propia agenda política, pero ahora al aprender sus trucos y engaños podemos jugar al detective y darnos cuenta de cómo se hizo un estudio, que datos arroja y si las conclusiones son correctas.
+
+Las metas que hora tenemos son:
+1. Convertirse en un consumidor bien informado de las estadísticas que ves a diario.
+1. Aumentar la seguridad de tu puesto de trabajo siendo la persona a quien recurrir para temas relacionados con la estadística.
