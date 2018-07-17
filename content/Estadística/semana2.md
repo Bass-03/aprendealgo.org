@@ -2,7 +2,7 @@ Title: Conceptos básicos en Estadísdica
 Summary: Conceptos básicos y definiciones
 Tags: estadistica
 
-##Conceptos
+## Conceptos
 **Estocástico** (del griego stokhastes = adivino) lo que está ligado al azar.
 
 Se denomina estocástico al sistema que se comporta de forma no determinista, es decir, que contiene elementos predecibles pero también aleatorios.

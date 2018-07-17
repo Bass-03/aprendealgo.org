@@ -9,6 +9,12 @@ El blog donde trato de poner algún resumen sobre algo que aprendí.
 1.  `make` para ver el resto de los comandos
 1.  revisar la configuracion en `fabfile.py` y `pelicanconf.py`
 
+## Temas
+
+Los temas se encuentran en la carpeta `./themes/`.
+
+Éstos están en el repositorio [PelicanThemes](https://github.com/gdledsan/PelicanThemes)
+
 ## Hecho con
 
 *   [Pelican](https://github.com/getpelican/pelican) - Generador de páginas estáticas
