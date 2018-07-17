@@ -22,6 +22,7 @@ En este sentido se vuelve evidente que conocer como funcionan estos datos y sabe
 ## Estudios correctos
 
 La estadística existe para contestar preguntas, y todo el mundo tiene una pregunta, en todos los ámbitos. Muchos estudios se realizan para tratar de contestar alguna pregunta, por ejemplo
+
 1.  ¿Hay una relación entre estar gordo y salud?
 1.  ¿Que piensan los Sinaloenses de los tacos en Jalisco?
 1.  ¿Estudiar en linea se relaciona con un mejor desempeño en el trabajo?
@@ -39,15 +40,17 @@ Para que cualquier estudio, incluyendo a las encuestas, sea válido hay que aseg
 
 Una vez teniendo los datos, lo que sigue es resumirlos para poder tener una mejor visión sobre ellos, para poder analizarlos.
 Los estadísticos describen datos de dos formas distintas:
-1. Mediante números (estadística descriptiva)
-2. Mediante dibujos (diagramas y gráficos)
+
+1.  Mediante números (estadística descriptiva)
+2.  Mediante dibujos (diagramas y gráficos)
 
 Los estadísticos descriptivos son números que describen las características importantes de un conjunto de datos, los datos pueden ser:
-1. Categóricos o cualitativos, por ejemplo el color de piel o el género de una persona. De estos podemos calcular la frecuencia por ejemplo.
-2. Datos numéricos, como la edad, el peso, etc. Estos datos nos permiten resumir algunas características importantes como
-  1.  Medidas de **tendencia central** (Donde está el centro de los datosº)
-  1.  Medidas de **dispersión** (Que grado de diversidad tienen los datos en torno al centro)
-  1.  Medidas de **correlación** (La relación entre dos o mas variables, por ejemplo entre la altura y el peso)
+
+1.  Categóricos o cualitativos, por ejemplo el color de piel o el género de una persona. De estos podemos calcular la frecuencia por ejemplo.
+2.  Datos numéricos, como la edad, el peso, etc. Estos datos nos permiten resumir algunas características importantes como
+    1.  Medidas de **tendencia central** (Donde está el centro de los datosº)
+    1.  Medidas de **dispersión** (Que grado de diversidad tienen los datos en torno al centro)
+    1.  Medidas de **correlación** (La relación entre dos o mas variables, por ejemplo entre la altura y el peso)
 
 Para resumir los datos de forma visual podemos utilizar diagramas y gráficos. Se trata de representaciones organizadas que puedes ver rápidamente y entender algún concepto.
 
@@ -58,9 +61,10 @@ Todos hemos visto alguna gráfica de barras o de lineas, basta con revisar un pe
 Una variable es una característica que se cuenta, se mide o se categoriza, una distribución es una relación de posibles valores de un a variable donde vemos la densidad o frecuencia con que se presentan.
 
 Hay varios tipos de distribuciones para diferentes variables. Las tres distribuciones mas comunes y más utilizadas en estadística básica son:
-1. **Distribución binomial**, se utiliza cuando la variable tiene dos posibles valores, generalmente éxito y fracaso.
-1. **Distribución normal**, se observa cuando la línea de la gráfica toma la forma de una campana.
-1. **Distribución *t***, se utiliza cuando la variable se basa en muestras y los datos son limitados. Por ejemplo, en un experimento con solo 10 sujetos para comprobar si un plan de alimentación tiene el efecto de adelgazar a los sujetos.
+
+1.  **Distribución binomial**, se utiliza cuando la variable tiene dos posibles valores, generalmente éxito y fracaso.
+1.  **Distribución normal**, se observa cuando la línea de la gráfica toma la forma de una campana.
+1.  **Distribución *t***, se utiliza cuando la variable se basa en muestras y los datos son limitados. Por ejemplo, en un experimento con solo 10 sujetos para comprobar si un plan de alimentación tiene el efecto de adelgazar a los sujetos.
 
 Es importante saber como determinar que distribución tiene cierta variable para utilizar las herramientas de la distribución de forma correcta.
 
@@ -103,5 +107,6 @@ La estadística es una herramienta poderosa que sirve para responder preguntas, 
 Con esto en mente, es muy fácil caer en una depresión ligera al saber que todo el mundo quiere engañarnos para segur su propia agenda política, pero ahora al aprender sus trucos y engaños podemos jugar al detective y darnos cuenta de cómo se hizo un estudio, que datos arroja y si las conclusiones son correctas.
 
 Las metas que hora tenemos son:
-1. Convertirse en un consumidor bien informado de las estadísticas que ves a diario.
-1. Aumentar la seguridad de tu puesto de trabajo siendo la persona a quien recurrir para temas relacionados con la estadística.
+
+1.  Convertirse en un consumidor bien informado de las estadísticas que ves a diario.
+1.  Aumentar la seguridad de tu puesto de trabajo siendo la persona a quien recurrir para temas relacionados con la estadística.
