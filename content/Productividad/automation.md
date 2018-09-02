@@ -50,3 +50,5 @@ Mantener una cultura no es fácil, apegarse a esta forma de trabajo siempre requ
 Cada interacción manual debe de acercarte a una mejor automatización.
 
 Es tentador apegarse a tus viejos métodos o no documentar algo "solo esta vez" por que tenemos prisa o porque lo podemos hacer después, pero apegarse a hacer las cosas bien y documentar todo desde el principio siempre nos va a ahorrar tiempo y nos pondrá un paso más cerca de una mejora revolucionaria en nuestros procesos.
+
+[Fuente: https://queue.acm.org/detail.cfm?id=3197520](https://queue.acm.org/detail.cfm?id=3197520)
