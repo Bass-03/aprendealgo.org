@@ -62,18 +62,18 @@ Vamos a usar dos estructuras comunnes en cualquier lenguaje de programación:
 
 Entonces podemos escribir lo siguiente:
 
-1. LEER **matriz_A**
-1. LEER **matriz_B**
-1. Variable **matriz_C** = Arreglo
-1. if (ancho de **matriz_A** == largo de **matriz_B**)
-    1. variable **contador_A** = 0
+1.  LEER **matriz_A**
+1.  LEER **matriz_B**
+1.  Variable **matriz_C** = Arreglo
+1.  if (ancho de **matriz_A** == largo de **matriz_B**)
+    1.  variable **contador_A** = 0
     1.  while (**contador_A** <= ancho de **matriz_A**)
         variable **contador_B** = 0
-        1. while (**contador_B** <= largo de **matriz_B**)
-            1. AGREGAR  (**matriz_A**~[contador_A][contador_B]~ * **matriz_B**~[contador_B][contador_A]~) a **matriz_C**
-            1. **contador_B** = **contador_B** + 1
-        1. **contador_A** = **contador_A** + 1
-1. imprimir **matriz_C**
+        1.  while (**contador_B** <= largo de **matriz_B**)
+            1.  AGREGAR  (**matriz_A**~contador_A,contador_B~ * **matriz_B**~contador_B,contador_A~) a **matriz_C**
+            1.  **contador_B** = **contador_B** + 1
+        1.  **contador_A** = **contador_A** + 1
+1.  imprimir **matriz_C**
 
 
 Hay que tomar en cuenta que hay mejores formas de trabajar con arreglos en los diferentes lenguajes de programacion, en ruby en vez de usar la estructura **while** utilizaría **Arreglo.each**, de forma que no tengo que mantener contadores.
