@@ -63,7 +63,7 @@ Ya que resuelvas todos los sub-problemas, conecta los puntos.
 
 Conectar todos las soluciones de cada sub-problema te dará la solución al problema.
 
-### ¿No ves la salida?
+## ¿No ves la salida?
 
 ¿Que pasa si no puedes resolver uno o varios de los sub-problemas?
 Primero, respira. Esto le pasa a todo el mundo.
@@ -75,6 +75,6 @@ Hay tres cosas que puedes intentar para seguir adelante:
 1.  Investiga. No importa el problema que tengas, alguien más pudo haberlo tenido antes. Encuentra esa persona o solución. Puedes aprender mucho de las soluciones de otras personas.
 
 
-### Practica
+## Practica
 
 No esperes ser el mejor después de una semana, si quieres ser un buen solucionador de problemas, resuelve muchos problemas.

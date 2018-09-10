@@ -36,19 +36,20 @@ Donde xA es el índice de Fila de la matriz A y zB es  el índice de columna de 
 ## El Algoritmo
 
 Para multiplicar dos matrices, por ejemplo 2x2 tenemos que:
-1. Saber si las dos matrices son multiplicables
-1. Multiplicar A~11~ por B~11~ y
-1. Multiplicar A~12~ por B~21~ y
-1. Sumar los resultados, este es el valor en  C~11~ de la resultante matriz C
-1. Multiplicar A~11~ por B~12~ y
-1. Multiplicar A~12~ por B~22~ y
-1. Sumar los resultados, este es el valor en  C~12~ de la resultante matriz C
-1. Multiplicar A~21~ por B~11~ y
-1. Multiplicar A~22~ por B~21~ y
-1. Sumar los resultados, este es el valor en  C~21~ de la resultante matriz C
-1. Multiplicar A~21~ por B~12~ y
-1. Multiplicar A~22~ por B~22~ y
-1. Sumar los resultados, este es el valor en C~22~ de la resultante matriz C
+
+1.  Saber si las dos matrices son multiplicables
+1.  Multiplicar A11 por B11 y
+1.  Multiplicar A12 por B21 y
+1.  Sumar los resultados, este es el valor en  C11 de la resultante matriz C
+1.  Multiplicar A11 por B12 y
+1.  Multiplicar A12 por B22 y
+1.  Sumar los resultados, este es el valor en  C12 de la resultante matriz C
+1.  Multiplicar A21 por B11 y
+1.  Multiplicar A22 por B21 y
+1.  Sumar los resultados, este es el valor en  C21 de la resultante matriz C
+1.  Multiplicar A21 por B12 y
+1.  Multiplicar A22 por B22 y
+1.  Sumar los resultados, este es el valor en C22 de la resultante matriz C
 
 # En Pseudo código
 
@@ -70,7 +71,7 @@ Entonces podemos escribir lo siguiente:
     1.  while (**contador_A** <= ancho de **matriz_A**)
         variable **contador_B** = 0
         1.  while (**contador_B** <= largo de **matriz_B**)
-            1.  AGREGAR  (**matriz_A**~contador_A,contador_B~ * **matriz_B**~contador_B,contador_A~) a **matriz_C**
+            1.  AGREGAR  (**matriz_A**contador_A,contador_B * **matriz_B**contador_B,contador_A) a **matriz_C**
             1.  **contador_B** = **contador_B** + 1
         1.  **contador_A** = **contador_A** + 1
 1.  imprimir **matriz_C**
