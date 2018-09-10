@@ -7,7 +7,7 @@ Hablamos de programación estructurada cuando queremos obtener un programa claro
 
 Cuando programamos generamos un secuencia de instrucciones que le dicen a la computadora que actividad llevar a cabo, a esto se le llama algoritmo.
 
-Los algoritmos son empleados en la solución de problemas en la vida cotidiana, no solo cuando programamos en la computadora, algunos ejemplos en matemáticas son la suma, resta, división y multiplicación, muchas veces hacemos estos cálculos de forma inmediata sin necesidad de revisar los pasos que conlleva por que se nos dá de forma natural eso no significa que no sea necesaria una secuencia de pasos para obtener un resultado, es decir, un algoritmo.
+Los algoritmos son empleados en la solución de problemas en la vida cotidiana, no solo cuando programamos en la computadora, algunos ejemplos en matemáticas son la suma, resta, división y multiplicación, muchas veces hacemos estos cálculos de forma inmediata sin necesidad de revisar los pasos que conlleva por que se nos da de forma natural eso no significa que no sea necesaria una secuencia de pasos para obtener un resultado, es decir, un algoritmo.
 
 ## Un problema, un Algoritmo
 
@@ -54,9 +54,9 @@ Para multiplicar dos matrices, por ejemplo 2x2 tenemos que:
 
 Podemos notar como escribir el algoritmo de la forma anterior es muy tedioso, imagina una matriz de 1000x1000, no queremos escribir tanto.
 
-Con pseudo código podemos utilizar conceptos de programación y escribir instrucciones que aplican a muchos mas casos que solo uno, es decir, aplicando los pasos en el pseodocódigo podemos resolver el problema para matrices de cualquier tamaño.
+Con pseudo código podemos utilizar conceptos de programación y escribir instrucciones que aplican a muchos mas casos que solo uno, es decir, aplicando los pasos en el pseudo código podemos resolver el problema para matrices de cualquier tamaño.
 
-Vamos a usar dos estructuras comunnes en cualquier lenguaje de programación:
+Vamos a usar dos estructuras comunes en cualquier lenguaje de programación:
 1. Estructura de control **if ... then**
 1. Estructure de repetición **while**
 
@@ -76,6 +76,6 @@ Entonces podemos escribir lo siguiente:
 1.  imprimir **matriz_C**
 
 
-Hay que tomar en cuenta que hay mejores formas de trabajar con arreglos en los diferentes lenguajes de programacion, en ruby en vez de usar la estructura **while** utilizaría **Arreglo.each**, de forma que no tengo que mantener contadores.
+Hay que tomar en cuenta que hay mejores formas de trabajar con arreglos en los diferentes lenguajes de programación, en ruby en vez de usar la estructura **while** utilizaría **Arreglo.each**, de forma que no tengo que mantener contadores.
 
-Tambien hay diferentes formas de agregar valores a la matriz resultante C, lo que importa es que sepamos que está pasando en el pseudocódigo y lo podamos replicar con código.
+También hay diferentes formas de agregar valores a la matriz resultante C, lo que importa es que sepamos que está pasando en el pseudo código y lo podamos replicar con código.

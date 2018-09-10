@@ -41,7 +41,7 @@ El script se convierte un una herramienta por si mismo y pasa a formar parte de 
 
 Idealmente tendremos un portal de autoservicio y el software puede ejecutarse sin supervisión.
 
-La diferencia entre `automático` y `autónomo` es la diferencia entre una `herramienta` que puedes usar para crear usuarios y un `sistema`  monitorea la base de datos de usuarios sin
+La diferencia entre `automático` y `autónomo` es la diferencia entre una `herramienta` que puedes usar para crear usuarios y un `sistema` monitorea la base de datos de usuarios sin
 intervención humana.
 
 ## Disciplina
